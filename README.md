@@ -1,0 +1,2 @@
+# TryAIWanie
+belajar github
